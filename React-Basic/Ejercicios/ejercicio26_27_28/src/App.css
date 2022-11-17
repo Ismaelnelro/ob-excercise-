@@ -1,0 +1,15 @@
+.App,.taskList{
+  min-width: 560px;
+  color: black;
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+

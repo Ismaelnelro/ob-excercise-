@@ -1,0 +1,21 @@
+.ChuckContainer {
+  background-color: #181717;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ChuckContainer-image {
+  display: flex;
+  height: 14rem;
+  justify-content: center;
+  width: 100vw;
+}
+
+
+.ChuckContainer-image>img {
+  height: 14rem;
+  width: 20rem;
+}
